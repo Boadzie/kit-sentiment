@@ -1,18 +1,8 @@
-# create-svelte
+# Kit-sentiment
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+![kit-sentiment](static/kit-sentiment.gif)
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+> This app uses Sveltekit, zod and vaderSentiment processes user text input, validates it using AI, and returns the sentiment analysis of the text.
 
 ## Developing
 
